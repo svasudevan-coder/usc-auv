@@ -1,0 +1,5 @@
+### Electrical
+The electrical system of our AUV is responsible for powering all the components and ensuring reliable communication between them. It consists of a high-capacity battery pack, power distribution board, and various sensors and actuators. The main computer is a compact, low-power single-board computer that runs the control software and processes sensor data. The electrical system is designed for efficiency, robustness, and easy maintenance.
+
+### Mechanical
+The mechanical system of our AUV is designed for hydrodynamic efficiency and stability. The streamlined hull is made of lightweight, high-strength composite materials to minimize drag and withstand the pressure at operating depths. The propulsion system consists of high-efficiency thrusters optimized for underwater operation. The AUV also features a modular payload bay for easy integration of various sensors and tools depending on the mission requirements. The mechanical design is optimized through extensive CFD simulations and pool testing.
